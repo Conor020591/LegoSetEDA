@@ -1,2 +1,4 @@
 # LegoSet_EDA_DataClean
-Some ESO and regression work on data related to Lego sets and prices
+
+This is a script to do some exploratory data analysis on the data gathered with my LegoSet_DataScraping project.
+It also cleans the data so that it can be used in rsome ML projects.
